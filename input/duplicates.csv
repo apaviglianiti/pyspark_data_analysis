@@ -1,0 +1,53 @@
+id,first_name,last_name,gender,City,JobTitle,Salary,Latitude,Longitude
+1,Melinde,Shilburne,Female,Nowa Ruda,Assistant Professor,$57438.18,50.5774075,16.4967184
+2,Kimberly,Von Welden,Female,Bulgan,Programmer II,$62846.60,48.8231572,103.5218199
+3,Alvera,Di Boldi,Female,,,$57576.52,39.9947462,116.3397725
+4,Shannon,O'Griffin,Male,Divnomorskoye,Budget/Accounting Analyst II,$61489.23,44.5047212,38.1300171
+5,Sherwood,Macieja,Male,Mytishchi,VP Sales,$63863.09,,37.6489954
+6,Maris,Folk,Female,Kinsealy-Drinan,Civil Engineer,$30101.16,53.4266145,-6.1644997
+7,Masha,Divers,Female,Dachun,,$25090.87,24.879416,118.930111
+8,Goddart,Flear,Male,Trélissac,Desktop Support Technician,$46116.36,45.1905186,0.7423124
+9,Roth,O'Cannavan,Male,Heitan,VP Product Management,$73697.10,32.027934,106.657113
+10,Bran,Trahear,Male,Arbeláez,Mechanical Systems Engineer,$68098.42,4.272793,-74.416014
+11,Kylynn,Lockart,Female,El Cardo,Nuclear Power Engineer,$13604.63,-5.85,-79.8833329
+12,Rey,Meharg,Female,Wangqingtuo,Systems Administrator I,$73423.70,39.172378,116.931607
+13,Kerr,Braden,Male,Sułkowice,Compensation Analyst,$33432.99,49.8151822,19.3771749
+14,Mickie,Whanstall,Male,Springfield,Assistant Media Planner,$50838.53,42.1014803,-72.5766759
+15,Kaspar,Pally,Male,Chrást,Analyst Programmer,$40163.03,49.7923299,13.4915324
+16,Norbie,Gwyllt,Male,Xijiao,Editor,$32492.73,43.4945737,5.8978018
+17,Claude,Briant,Female,Mieścisko,Research Assistant II,$51862.48,52.7441662,17.3278637
+18,Thain,Habbon,Male,Foros do Trapo,Design Engineer,$42135.67,38.696249,-8.7098337
+19,Tiffanie,Pattison,Female,Jabungsisir,Senior Financial Analyst,$91925.08,-7.7232567,113.4686802
+20,Ettore,Gerriets,Male,Pedra,Staff Accountant IV,$73921.33,40.7172049,-8.3625148
+21,Alon,Chasteau,Male,Xin’e,Web Developer I,$62755.85,49.16291,127.98658
+22,Guthrey,Johnke,Male,Xijiao,Developer I,$13708.03,40.7576842,23.1342184
+23,Lurleen,Janczak,Female,Rozkishne,Web Developer IV,$29384.72,48.4902808,39.2712224
+24,Nichol,Holtum,Female,Město,Paralegal,$27797.98,49.9718258,12.8846277
+25,Shaun,Bridle,Female,Xitou,Office Assistant IV,$71279.60,29.866917,118.403786
+26,Leandra,Anfrey,Female,Isfahan,VP Product Management,$30201.32,32.6546275,51.6679826
+26,Leandra,Anfrey,Female,Isfahan,VP Product Management,$30201.32,32.6546275,51.6679826
+27,Jarvis,Perone,Male,Hägersten,Associate Professor,$55313.18,59.2832062,17.9570059
+28,Jaquelyn,Hazard,Female,Dhaka,Tax Accountant,$68368.55,23.810332,90.4125181
+29,Prudence,Honacker,Female,Suphan Buri,VP Accounting,$64920.07,14.5466721,100.0795741
+30,Cherey,Liger,Female,Itami,Design Engineer,$94566.69,34.7791206,135.4203895
+31,Neda,Krop,Female,Ubon Ratchathani,Software Consultant,$48945.40,15.2478876,104.8764505
+32,Westleigh,Belderfield,Male,Xiang Ngeun,Accountant III,$78336.59,19.7600399,102.1832854
+33,Odell,Morritt,Male,Chalan Pago-Ordot Village,Design Engineer,$72777.48,13.4441374,144.7820914
+34,Barbi,Fattorini,Female,Wojcieszków,Desktop Support Technician,$18163.55,51.7840088,22.3268117
+35,Base,Summerlad,Male,Changuinola,Business Systems Development Analyst,$53137.80,9.4488704,-82.485187
+36,Paddy,Ashness,Male,Ddmashen,Engineer III,$34851.65,40.5684068,44.8157566
+37,Nicko,Frays,Male,Caxias,Health Coach I,$99786.40,-4.8654138,-43.3619983
+38,Lonnie,Townshend,Female,As Sulayyil,Desktop Support Technician,$44520.89,20.4668679,45.5629394
+39,Valida,Salzberg,Female,Pangnirtung,Assistant Professor,$94224.48,66.14511,-65.71252
+16,Norbie,Gwyllt,Male,Xijiao,Editor,$32492.73,43.4945737,5.8978018
+40,Pierrette,Calow,Female,Kaustinen,Legal Assistant,$85120.77,63.537266,23.6993197
+41,Deirdre,Codrington,Female,Buena Vista,Software Engineer I,$85861.33,-17.4586651,-63.6691522
+42,Chelsie,Yewdell,Female,Klippan,Engineer IV,$77039.47,56.1357417,13.1119454
+43,Hadrian,Crumpe,Male,Rosso,Physical Therapy Assistant,$36879.44,16.5163413,-15.802612
+44,Orville,Rigardeau,Male,Kokotów,Data Coordiator,$20350.35,50.0142619,20.096687
+45,Gabrielle,Tippings,Female,Huangshi,Editor,$98690.34,30.20003,115.038835
+46,Sollie,D'Acth,Male,Mozdok,Design Engineer,$31385.87,43.7454199,44.6830668
+47,Karissa,Steinham,Female,Qiligang,Human Resources Assistant III,$56333.77,30.916426,118.734651
+48,Farlee,Callen,Male,Tanjungluar,Structural Analysis Engineer,$16866.41,-8.7765432,116.5093719
+49,Franklyn,Campo,Male,Rzhavki,Statistician I,$62765.00,56.0127743,37.2229806
+1,Melinde,Shilburne,Female,Nowa Ruda,Assistant Professor,$57438.18,50.5774075,16.4967184
